@@ -68,17 +68,6 @@ Implemented two fundamental shortest-path search algorithms to compute the short
 
 ---
 
-## 🗂 Project Structure
 
-```text
-.
-├── DungeonGenerator.cpp      # BSP generation and doo placement logic
-├── DungeonGraph.cpp          # Graph structure and adjacency mapping
-├── Pathfinding.cpp           # Recursive DFS and iterative BFS implementations
-├── TileRenderer.cpp          # Visual tile-based rendering of dungeon state
-├── main.cpp                  # Entry point and assignment selection
-├── /resources                # Textures, tile assets, and configuration
-└── CMakeLists.txt            # Build configuration for CMake
-└── CMakeLists.txt            # Project build configuration
 
 
